@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/family"
+        android:title="진희가족"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/d1"
+        android:title="쫄리아"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/d2"
+        android:title="밍쿠리"
+        app:showAsAction="never" />
+
+</menu>
