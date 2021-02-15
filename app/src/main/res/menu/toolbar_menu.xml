@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/setting"
+        android:title="메뉴판"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/sin"
+        android:title="라면"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/jin"
+        android:title="떡볶이"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/yeol"
+        android:title="순대"
+        app:showAsAction="never" />
+
+
+
+
+
+</menu>
